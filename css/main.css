@@ -1,4 +1,13 @@
-a {
-  text-decoration: none; }
+@import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css);
+body {
+  background: #F0EFF4;
+  display: flex;
+  justify-content: space-around; }
+
+div#canvas {
+  margin-top: 150px;
+  background: #FFFFFF;
+  height: 568px;
+  width: 320px; }
 
 /*# sourceMappingURL=main.css.map */

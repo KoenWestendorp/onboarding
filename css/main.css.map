@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,CAAC;EACC,eAAe,EAAE,IAAI",
-"sources": ["../_main.sass"],
+"mappings": "AACQ,qFAA6E;ACDrF,IAAI;EACF,UAAU,ECDA,OAAO;EDEjB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;;AAE/B,UAAU;EACR,UAAU,EAAE,KAAK;EACjB,UAAU,ECNJ,OAAO;EDOb,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK",
+"sources": ["../_main.sass","../_canvas.sass","../_vars.sass"],
 "names": [],
 "file": "main.css"
 }
